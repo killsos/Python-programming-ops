@@ -3,5 +3,7 @@
 
 from pack import demo
 
+print(__name__)
+
 demo.Foo()
 
